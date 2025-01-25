@@ -22,3 +22,6 @@ Iniciar o setoolkit, então:
 
 ## Verificar informações
 ![image](https://github.com/user-attachments/assets/1dba1e4a-7808-43ae-8104-f673f3f520e2)
+
+## Considerações finais
+O email foi coletado corretamente, porém, a senha coletada com esse método vem encriptada. Logo, seria necessário alterar o código do site clonado para não encriptar a senha antes de mandar para o servidor.
