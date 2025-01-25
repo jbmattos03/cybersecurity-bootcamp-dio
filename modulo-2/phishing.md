@@ -3,7 +3,7 @@
 ## sudo su
 Entrar como root
 
-## nano /etc/setoolkit/set.config
+## sudo nano /etc/setoolkit/set.config
 Alterar APACHE_SERVER para ON:
 
 ![image](https://github.com/user-attachments/assets/264623c5-e08e-48dd-b31f-1701c1cf25a6)
